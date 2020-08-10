@@ -20,6 +20,7 @@ This article uses simple experiments to illustrates the following topics:
 1. Ability to train on small version of the task and then being able to deploy to modified versions of the tasks without changing the Expert policy (weights). Policies trained on small robots generalize to robots of different size and/or shape.
 2. In more complicated case, the tasks usually requires the Experts to communicate with each other. One of open questions is how an efficient communication topology should look like and if it is possible to establish it automatically from data.
 
+Code for the experiments available [here at github](https://github.com/GoodAI/badger-2020).
 
 # Experiment 1 - Experts without communication
 ## Experiment description

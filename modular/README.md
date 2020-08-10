@@ -1,6 +1,7 @@
-# modular
+# Modular robots
 
-experiments with task modularization
+Description of the experiment is available [here](coral/README.md).
+
 
 
 # Basic Requirements
