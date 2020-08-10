@@ -1,0 +1,22 @@
+cachetools
+prettytable
+
+
+# torchvision
+matplotlib
+numpy
+#torch
+#jupytext
+tqdm
+pytest
+pillow
+bokeh
+pandas-bokeh
+pandas
+
+sacred
+pymongo
+gitpython
+
+dacite
+

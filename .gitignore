@@ -1,0 +1,7 @@
+__pycache__/
+.idea
+loaded_from_sacred/
+data/
+.pyc
+img/
+.DS_store

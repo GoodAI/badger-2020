@@ -1,0 +1,17 @@
+sacred==0.8.1
+pymongo
+
+torch
+pytest
+pytest-mock
+gym
+twine
+pillow
+matplotlib
+numpy
+gitpython
+
+
+# include this in your requirements.txt to download this repository
+#-i http://192.168.120.2:8000/
+#badger-cloud
