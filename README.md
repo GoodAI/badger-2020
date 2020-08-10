@@ -7,4 +7,4 @@ The text available [here](https://github.com/GoodAI/badger-2020/blob/master/Ment
 
 ## Modular robots
 
-The text available [here]() and blogpost [here](https://www.goodai.com/benefits-of-modular-approach-generalization/).
+The text available [here](modular/coral/README.md) and blogpost [here](https://www.goodai.com/benefits-of-modular-approach-generalization/).
